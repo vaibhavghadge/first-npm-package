@@ -1,6 +1,6 @@
 {
   "name": "vaibhav-first-npm-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Say hello to Vaibhav",
   "main": "index.js",
   "scripts": {
