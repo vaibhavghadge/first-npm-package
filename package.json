@@ -1,0 +1,23 @@
+{
+  "name": "vaibhav-first-npm-package",
+  "version": "1.0.0",
+  "description": "Say hello to Vaibhav",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavghadge/first-npm-package.git"
+  },
+  "keywords": [
+    "vaibhav",
+    "hello"
+  ],
+  "author": "Vaibhav Ghadge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaibhavghadge/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/vaibhavghadge/first-npm-package#readme"
+}
